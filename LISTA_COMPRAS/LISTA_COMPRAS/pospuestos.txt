@@ -1,0 +1,3 @@
+,,
+Andres,celular,Tienda1
+admin,pollo,Tienda1

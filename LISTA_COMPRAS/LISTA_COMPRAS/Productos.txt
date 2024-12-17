@@ -1,0 +1,10 @@
+Alimentos y Bebidas,
+Ropa y Accesorios,
+Ferreteria,
+Farmacia y Salud,
+Electrónica y Tecnología,
+Mobiliaria,
+Deportes,
+Papeleria,
+Jardineria,abono
+Fruteria,mango
